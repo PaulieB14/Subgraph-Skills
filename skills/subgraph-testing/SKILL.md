@@ -1,3 +1,9 @@
+---
+name: subgraph-testing
+description: This skill should be used when the user asks to test a subgraph, write unit tests, use Matchstick, mock events or contract calls, run the Subgraph Linter, assert entities, or set up CI/CD for subgraph testing on The Graph protocol.
+version: 1.0.0
+---
+
 # Subgraph Testing Skill
 
 Expert knowledge for testing subgraphs using Matchstick framework, Subgraph Linter, and integration testing patterns.

@@ -1,3 +1,9 @@
+---
+name: subgraph-optimization
+description: This skill should be used when the user asks to optimize a subgraph, improve indexing speed, reduce query time, discusses pruning, @derivedFrom, immutable entities, avoiding eth_calls, timeseries aggregations, or grafting on The Graph protocol.
+version: 1.0.0
+---
+
 # Subgraph Optimization Skill
 
 Expert knowledge for optimizing subgraph performance, indexing speed, and query responsiveness. This skill covers The Graph's official best practices.

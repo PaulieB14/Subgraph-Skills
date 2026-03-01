@@ -1,3 +1,9 @@
+---
+name: subgraph-dev
+description: This skill should be used when the user asks to develop, build, or create a subgraph, discusses schema design, mapping handlers, subgraph.yaml manifests, AssemblyScript, event handlers, data sources, contract bindings, or deployment to The Graph protocol.
+version: 1.0.0
+---
+
 # Subgraph Development Skill
 
 Expert knowledge for developing subgraphs with The Graph protocol. This skill covers schema design, mapping handlers, data sources, and deployment workflows.
