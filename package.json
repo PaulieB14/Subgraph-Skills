@@ -1,8 +1,8 @@
 {
   "name": "subgraphs-skills",
-  "version": "1.0.0",
-  "description": "AI agent skills for developing, testing, and optimizing subgraphs with The Graph protocol",
-  "author": "buildlin",
+  "version": "1.1.0",
+  "description": "AI agent skills for developing, testing, and optimizing subgraphs with The Graph protocol. Works with Claude Code, Cursor, Gemini CLI, and more.",
+  "author": "PaulieB14",
   "license": "MIT",
   "keywords": [
     "thegraph",
@@ -12,13 +12,23 @@
     "graphql",
     "web3",
     "claude-code",
-    "ai-agent"
+    "cursor",
+    "gemini-cli",
+    "agent-skills",
+    "ai-agent",
+    "assemblyscript",
+    "matchstick"
   ],
-  "scripts": {
-    "validate": "node scripts/validate.js"
+  "bin": {
+    "subgraphs-skills": "bin/install.js"
   },
+  "files": [
+    "bin",
+    "skills"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/buildlin/subgraphs-skills"
-  }
+    "url": "https://github.com/PaulieB14/subgraphs-skills"
+  },
+  "homepage": "https://github.com/PaulieB14/subgraphs-skills#readme"
 }
